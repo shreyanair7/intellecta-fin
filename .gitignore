@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+venv/
+.env*
+
+# Vector Database
+chroma_db/
+backend/chroma_db/
+
+# Uploaded Files
+uploads/
+backend/uploads/
+
+# Node/Bun
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
