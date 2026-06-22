@@ -80,8 +80,7 @@ Dynamic Citations
 ```
 
 <p align="center">
-  <img src="intellecta/assets/arch diagram.png" alt="Architecture Diagram" width="800">
-
+  <img src="assets/arch diagram.png" alt="Architecture Diagram" width="800">
 </p>
 
 ---
@@ -92,21 +91,21 @@ Dynamic Citations
 Secure onboarding interface allowing users to register and access their private document environments.
 
 <p align="center">
-  <img src="intellecta/assets/register.png" alt="User Registration Interface" width="600">
+  <img src="assets/register.png" alt="User Registration Interface" width="600">
 </p>
 
 ### 2. Document Intelligence & Chat
 Main workspace workspace where users manage uploaded files and initiate conversational sessions.
 
 <p align="center">
-  <img src="intellecta/assets/chat.png" alt="Main Chat Interface" width="800">
+  <img src="assets/chat.png" alt="Main Chat Interface" width="800">
 </p>
 
 ### 3. Retrieval Optimization & Responses
 Context-aware generated outputs completed with dynamic source citations based on semantic matching thresholds.
 
 <p align="center">
-  <img src="intellecta/assets/chatbot response.png" alt="Chatbot Response Demo" width="800">
+  <img src="assets/chatbot response.png" alt="Chatbot Response Demo" width="800">
 </p>
 
 ---
