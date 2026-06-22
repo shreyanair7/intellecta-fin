@@ -78,6 +78,7 @@ Response Generation
     ↓
 Dynamic Citations
 ```
+---
 
 ![Architecture Diagram](./intellecta/assets/arch-diagram.png)
 
