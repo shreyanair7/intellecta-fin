@@ -80,7 +80,7 @@ Dynamic Citations
 ```
 ---
 
-![Architecture Diagram](./intellecta/assets/arch-diagram.png)
+![Architecture Diagram](./intellecta/assets/arch.png)
 
 ---
 
@@ -99,7 +99,7 @@ Main workspace workspace where users manage uploaded files and initiate conversa
 ### 3. Retrieval Optimization & Responses
 Context-aware generated outputs completed with dynamic source citations based on semantic matching thresholds.
 
-![Chatbot Response Demo](./intellecta/assets/chatbot-response.png)
+![Chatbot Response Demo](./intellecta/assets/response.png)
 
 ---
 
